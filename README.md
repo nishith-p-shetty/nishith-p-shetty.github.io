@@ -1,4 +1,4 @@
-# nishith-p-shetty.github.io
+# nishithpshetty.github.io
 # nishithpshetty.tk
 
 * Its my WEBPAGE
