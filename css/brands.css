@@ -95,7 +95,7 @@ button:hover,
 
 .button.button-github {
     color: #FFFFFF;
-    background-color: #000000
+    background-color: #352e2e
 }
 
 .button.button-github:hover,
@@ -199,10 +199,88 @@ button:hover,
 
 .button.button-youtube {
     color: #FFFFFF;
-    background-color: #000000
+    background-color: #333131
 }
 
 .button.button-youtube:hover,
 .button.button-youtube:focus {
+    filter: brightness(90%)
+}
+
+
+/* Website */
+
+.button.button-website {
+    color: #000000;
+    background-color: #888080
+}
+
+.button.button-website:hover,
+.button.button-website:focus {
+    filter: brightness(90%)
+}
+
+
+/* GoogleQwiklabs */
+
+.button.button-googleqwiklabs {
+    color: #000000;
+    background-color: #59b0d8
+}
+
+.button.button-googleqwiklabs:hover,
+.button.button-googleqwiklabs:focus {
+    filter: brightness(90%)
+}
+
+
+/* Keybr */
+
+.button.button-keybr {
+    color: #000000;
+    background-color: #f3e077
+}
+
+.button.button-keybr:hover,
+.button.button-keybr:focus {
+    filter: brightness(90%)
+}
+
+
+/* hackthebox */
+
+.button.button-hackthebox {
+    color: #FFFFFF;
+    background-color: #1e2ada
+}
+
+.button.button-hackthebox:hover,
+.button.button-hackthebox:focus {
+    filter: brightness(90%)
+}
+
+
+/* hackerone */
+
+.button.button-hackerone {
+    color: #000000;
+    background-color: #4bf13c
+}
+
+.button.button-hackerone:hover,
+.button.button-hackerone:focus {
+    filter: brightness(90%)
+}
+
+
+/* tryhackme */
+
+.button.button-tryhackme {
+    color: #000000;
+    background-color: #72ade6
+}
+
+.button.button-tryhackme:hover,
+.button.button-tryhackme:focus {
     filter: brightness(90%)
 }
