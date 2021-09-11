@@ -284,3 +284,31 @@ button:hover,
 .button.button-tryhackme:focus {
     filter: brightness(90%)
 }
+
+
+/* hackerrank */
+
+.button.button-hackerrank {
+    color: #ffffff;
+    background-color: #286636
+}
+
+.button.button-hackerrank:hover,
+.button.button-hackerrank:focus {
+    filter: brightness(90%)
+}
+
+
+/* geeksforgeeks */
+
+.button.button-geeksforgeeks {
+    color: #000000;
+    background-color: #77f068
+}
+
+.button.button-geeksforgeeks:hover,
+.button.button-geeksforgeeks:focus {
+    filter: brightness(90%)
+}
+
+//
