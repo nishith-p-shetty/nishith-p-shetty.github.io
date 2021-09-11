@@ -289,8 +289,8 @@ button:hover,
 /* hackerrank */
 
 .button.button-hackerrank {
-    color: #ffffff;
-    background-color: #286636
+    color: #000000;
+    background-color: #77f068
 }
 
 .button.button-hackerrank:hover,
@@ -303,7 +303,7 @@ button:hover,
 
 .button.button-geeksforgeeks {
     color: #000000;
-    background-color: #77f068
+    background-color: #1eb2cc
 }
 
 .button.button-geeksforgeeks:hover,
