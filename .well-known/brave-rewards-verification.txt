@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: nishithpshetty.tk
-Token: 34ccb9e8754bfb0691523afb38ad9396910b6c38a81ab97fc0f8b9b510e66c63
