@@ -349,3 +349,16 @@ button:hover,
 .button.button-codeforces:focus {
     filter: brightness(90%)
 }
+
+
+/* google developer profile */
+
+.button.button-gdc {
+    color: #000000;
+    background-color: #5daae9
+}
+
+.button.button-gdc:hover,
+.button.button-gdc:focus {
+    filter: brightness(90%)
+}
