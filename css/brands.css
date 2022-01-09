@@ -311,4 +311,41 @@ button:hover,
     filter: brightness(90%)
 }
 
-//
+
+/* hackerearth */
+
+.button.button-hackerearth {
+    color: #ffffff;
+    background-color: #18446e
+}
+
+.button.button-hackerearth:hover,
+.button.button-hackerearth:focus {
+    filter: brightness(90%)
+}
+
+
+/* codechef */
+
+.button.button-codechef {
+    color: #000000;
+    background-color: #b42b97
+}
+
+.button.button-codechef:hover,
+.button.button-codechef:focus {
+    filter: brightness(90%)
+}
+
+
+/* codeforces */
+
+.button.button-codeforces {
+    color: #000000;
+    background-color: #bfee3f
+}
+
+.button.button-codeforces:hover,
+.button.button-codeforces:focus {
+    filter: brightness(90%)
+}
