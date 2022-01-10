@@ -362,3 +362,16 @@ button:hover,
 .button.button-gdc:focus {
     filter: brightness(90%)
 }
+
+
+/* leetcode */
+
+.button.button-leetcode {
+    color: #000000;
+    background-color: #7059c7
+}
+
+.button.button-leetcode:hover,
+.button.button-leetcode:focus {
+    filter: brightness(90%)
+}
