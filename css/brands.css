@@ -375,3 +375,16 @@ button:hover,
 .button.button-leetcode:focus {
     filter: brightness(90%)
 }
+
+
+/* showwcase */
+
+.button.button-showwcase {
+    color: #dfdfdf;
+    background-color: #3f3f42
+}
+
+.button.button-showwcase:hover,
+.button.button-showwcase:focus {
+    filter: brightness(90%)
+}
