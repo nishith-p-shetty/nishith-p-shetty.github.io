@@ -136,6 +136,12 @@ a {
     -ms-transform: translate(-50%, 0%)
 }
 
+.w3-display-bottomright {
+    position: absolute;
+    right: 0;
+    bottom: 0
+}
+
 .w3-display-container {
     position: relative
 }
