@@ -388,3 +388,16 @@ button:hover,
 .button.button-showwcase:focus {
     filter: brightness(90%)
 }
+
+
+/* projects */
+
+.button.button-projects {
+    color: #000000;
+    background-color: #5df1f7
+}
+
+.button.button-projects:hover,
+.button.button-projects:focus {
+    filter: brightness(90%)
+}
