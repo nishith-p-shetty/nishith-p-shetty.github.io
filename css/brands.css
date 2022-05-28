@@ -401,3 +401,16 @@ button:hover,
 .button.button-projects:focus {
     filter: brightness(90%)
 }
+
+
+/* photography */
+
+.button.button-photography {
+    color: #ffffff;
+    background-color: #623091
+}
+
+.button.button-photography:hover,
+.button.button-photography:focus {
+    filter: brightness(90%)
+}
