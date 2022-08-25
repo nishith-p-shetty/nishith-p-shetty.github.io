@@ -82,7 +82,7 @@ button:hover,
 
 .button.button-facebook {
     color: #FFFFFF;
-    background-color: #1877f2
+    background-color: #1d7af3
 }
 
 .button.button-facebook:hover,
@@ -173,7 +173,7 @@ button:hover,
 
 .button.button-telegram {
     color: #FFFFFF;
-    background-color: #3faee8
+    background-color: #199ae0
 }
 
 .button.button-telegram:hover,
@@ -186,7 +186,7 @@ button:hover,
 
 .button.button-twitter {
     color: #FFFFFF;
-    background-color: #1DA1F2
+    background-color: #199ae9
 }
 
 .button.button-twitter:hover,
@@ -212,7 +212,7 @@ button:hover,
 
 .button.button-website {
     color: #000000;
-    background-color: #888080
+    background-color: #e0e0e0
 }
 
 .button.button-website:hover,
@@ -329,7 +329,7 @@ button:hover,
 
 .button.button-codechef {
     color: #000000;
-    background-color: #b42b97
+    background-color: #c662b1
 }
 
 .button.button-codechef:hover,
@@ -368,7 +368,7 @@ button:hover,
 
 .button.button-leetcode {
     color: #000000;
-    background-color: #7059c7
+    background-color: #957cf0
 }
 
 .button.button-leetcode:hover,
