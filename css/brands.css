@@ -245,6 +245,28 @@ button:hover,
 .button.button-keybr:focus {
     filter: brightness(90%)
 }
+/* StackOverflow */
+
+.button.button-stackoverflow {
+    color: #000000;
+    background-color: #ff6a00
+}
+
+.button.button-stackoverflow:hover,
+.button.button-stackoverflow:focus {
+    filter: brightness(90%)
+}
+/* Credly */
+
+.button.button-credly {
+    color: #000000;
+    background-color: #ff00bb
+}
+
+.button.button-credly:hover,
+.button.button-credly:focus {
+    filter: brightness(90%)
+}
 
 
 /* hackthebox */
