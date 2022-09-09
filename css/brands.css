@@ -248,7 +248,7 @@ button:hover,
 /* Devfolio */
 
 .button.button-devfolio {
-    color: #000000;
+    color: #ffffff;
     background-color: #2a60eb
 }
 
@@ -259,7 +259,7 @@ button:hover,
 /* StackExchange */
 
 .button.button-stackexchange {
-    color: #000000;
+    color: #ffffff;
     background-color: #6628e2
 }
 
@@ -270,7 +270,7 @@ button:hover,
 /* StackOverflow */
 
 .button.button-stackoverflow {
-    color: #000000;
+    color: #ffffff;
     background-color: #ff5900
 }
 
@@ -281,7 +281,7 @@ button:hover,
 /* Credly */
 
 .button.button-credly {
-    color: #000000;
+    color: #ffffff;
     background-color: #f200ff
 }
 
