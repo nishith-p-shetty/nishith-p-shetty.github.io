@@ -245,6 +245,28 @@ button:hover,
 .button.button-keybr:focus {
     filter: brightness(90%)
 }
+/* Devfolio */
+
+.button.button-devfolio {
+    color: #000000;
+    background-color: #2a60eb
+}
+
+.button.button-devfolio:hover,
+.button.button-devfolio:focus {
+    filter: brightness(90%)
+}
+/* StackExchange */
+
+.button.button-stackexchange {
+    color: #000000;
+    background-color: #6628e2
+}
+
+.button.button-stackexchange:hover,
+.button.button-stackexchange:focus {
+    filter: brightness(90%)
+}
 /* StackOverflow */
 
 .button.button-stackoverflow {

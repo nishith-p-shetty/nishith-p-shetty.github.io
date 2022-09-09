@@ -2,7 +2,7 @@ const gallery = document.getElementById('gallery');
 const popup = document.getElementById('popup');
 const selectedImage = document.getElementById('selectedImage');
 const selectedIndex = null;
-for (let i = 1; i <= 4; i++) {
+for (let i = 1; i <= 3; i++) {
     const image = document.createElement('img');
     image.src = 'https://ik.imagekit.io/nishithpshetty/photography/tr:w-400,h-350/' + i + '.jpg';
     image.alt = 'Image ' + i;
