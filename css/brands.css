@@ -221,15 +221,15 @@ button:hover,
 }
 
 
-/* GoogleQwiklabs */
+/* Google Cloud Skills Boost */
 
-.button.button-googleqwiklabs {
+.button.button-googlecloudskillsboost {
     color: #000000;
     background-color: #59b0d8
 }
 
-.button.button-googleqwiklabs:hover,
-.button.button-googleqwiklabs:focus {
+.button.button-googlecloudskillsboost:hover,
+.button.button-googlecloudskillsboost:focus {
     filter: brightness(90%)
 }
 
