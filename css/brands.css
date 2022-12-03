@@ -458,3 +458,16 @@ button:hover,
 .button.button-photography:focus {
     filter: brightness(90%)
 }
+
+
+/* Codewars */
+
+.button.button-codewars {
+    color: #ffffff;
+    background-color: #623091
+}
+
+.button.button-codewars:hover,
+.button.button-codewars:focus {
+    filter: brightness(90%)
+}
