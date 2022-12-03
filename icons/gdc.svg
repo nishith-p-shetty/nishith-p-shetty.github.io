@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180">
+<path style="fill:#fefefe; stroke:none;" d="M0 0L0 180L180 180L180 0L0 0z"/>
+<path style="fill:#fabd09; stroke:none;" d="M68 54L68 55L71 55L68 54M64 55L65 56L64 55z"/>
+<path style="fill:#eb4436; stroke:none;" d="M27 77C33.435 80.523 47.8895 91.0452 55 88.1319C62.0446 85.2456 74.4545 79.1423 78.8519 72.8148C82.9999 66.8461 80.2494 57.4326 72.9961 55.4336C66.5574 53.6591 61.2598 57.5233 56 60.5756C46.4503 66.1174 37.0057 72.3285 27 77z"/>
+<path style="fill:#fabd09; stroke:none;" d="M74 55L75 56L74 55z"/>
+<path style="fill:#109d59; stroke:none;" d="M106.015 55.7423C98.6395 58.6435 96.9769 69.0274 102.394 74.4715C111.888 84.0124 128.312 90.5204 140 97.1497C144.548 99.7292 149.616 103.113 154.999 100.987C162.674 97.9548 165.364 88.4109 159.721 82.1852C150.68 72.2088 133.537 66.2141 122 59.3966C117.167 56.5405 111.796 53.4684 106.015 55.7423z"/>
+<path style="fill:#fabd09; stroke:none;" d="M61 57L62 58L61 57z"/>
+<path style="fill:#4386f4; stroke:none;" d="M118 57L119 58L118 57z"/>
+<path style="fill:#fabd09; stroke:none;" d="M59 58L60 59L59 58M56 60L57 61L56 60M79 60L80 61L79 60z"/>
+<path style="fill:#4386f4; stroke:none;" d="M100 60L101 61L100 60M123 60L124 61L123 60z"/>
+<path style="fill:#fabd09; stroke:none;" d="M54 61L55 62L54 61z"/>
+<path style="fill:#4386f4; stroke:none;" d="M125 61L126 62L125 61z"/>
+<path style="fill:#fabd09; stroke:none;" d="M52 62L53 63L52 62M80 62L81 63L80 62z"/>
+<path style="fill:#4386f4; stroke:none;" d="M99 62L100 63L99 62z"/>
+<path style="fill:#fabd09; stroke:none;" d="M49 64L50 65L49 64z"/>
+<path style="fill:#4386f4; stroke:none;" d="M130 64L131 65L130 64z"/>
+<path style="fill:#fabd09; stroke:none;" d="M47 65L48 66L47 65M44 67L45 68L44 67M42 68L43 69L42 68z"/>
+<path style="fill:#4386f4; stroke:none;" d="M137 68L138 69L137 68z"/>
+<path style="fill:#fabd09; stroke:none;" d="M40 69L41 70L40 69M80 70L81 71L80 70z"/>
+<path style="fill:#4386f4; stroke:none;" d="M99 70L100 71L99 70z"/>
+<path style="fill:#fabd09; stroke:none;" d="M37 71L38 72L37 71M35 72L36 73L35 72M79 72L80 73L79 72z"/>
+<path style="fill:#4386f4; stroke:none;" d="M100 72L101 73L100 72M144 72L145 73L144 72z"/>
+<path style="fill:#fabd09; stroke:none;" d="M33 73L34 74L33 73M78 73L79 74L78 73M30 75L31 76L30 75M76 75L77 76L76 75z"/>
+<path style="fill:#4386f4; stroke:none;" d="M103 75L104 76L103 75M149 75L150 76L149 75z"/>
+<path style="fill:#fabd09; stroke:none;" d="M28 76L29 77L28 76M75 76L76 77L75 76M73 77L74 78L73 77z"/>
+<path style="fill:#4386f4; stroke:none;" d="M106 77L107 78L106 77M25.0147 78.7068C16.7386 81.4762 14.5752 92.4033 20.5332 98.4707C29.9629 108.073 46.4442 113.94 58 120.799C62.7965 123.646 68.3022 126.461 73.9961 124.258C81.499 121.354 83.3081 110.912 77.7716 105.329C68.3041 95.7808 51.6836 89.4772 40 82.8503C35.5275 80.3135 30.3695 76.9149 25.0147 78.7068z"/>
+<path style="fill:#fabd09; stroke:none;" d="M71 78L72 79L71 78z"/>
+<path style="fill:#4386f4; stroke:none;" d="M108 78L109 79L108 78M156 79L157 80L156 79z"/>
+<path style="fill:#fabd09; stroke:none;" d="M68 80L69 81L68 80M66 81L67 82L66 81z"/>
+<path style="fill:#4386f4; stroke:none;" d="M113 81L114 82L113 81M159 81L160 82L159 81z"/>
+<path style="fill:#fabd09; stroke:none;" d="M64 82L65 83L64 82M61 84L62 85L61 84M59 85L60 86L59 85z"/>
+<path style="fill:#4386f4; stroke:none;" d="M120 85L121 86L120 85M162 86L163 87L162 86z"/>
+<path style="fill:#fabd09; stroke:none;" d="M56 87L57 88L56 87M54 88L55 89L54 88z"/>
+<path style="fill:#4386f4; stroke:none;" d="M125 88L126 89L125 88z"/>
+<path style="fill:#fabd09; stroke:none;" d="M52 89L53 90L52 89M153 103C147.123 99.7826 132.482 89.2661 126 91.1821C118.959 93.2634 105.023 100.903 101.009 107.093C97.1681 113.018 99.1803 121.617 106.004 124.258C112.55 126.791 118.607 122.799 124 119.603C133.555 113.942 143.199 108.216 153 103z"/>
+<path style="fill:#4386f4; stroke:none;" d="M162 93L163 94L162 93M159 98L160 99L159 98M156 100L157 101L156 100z"/>
+<path style="fill:#fabd09; stroke:none;" d="M154 101L155 102L154 101z"/>
+</svg>
