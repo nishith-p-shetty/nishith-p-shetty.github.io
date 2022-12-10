@@ -471,3 +471,16 @@ button:hover,
 .button.button-codewars:focus {
     filter: brightness(90%)
 }
+
+
+/* freeCodeCamp */
+
+.button.button-freeCodeCamp {
+    color: #ffffff;
+    background-color: #272748
+}
+
+.button.button-freeCodeCamp:hover,
+.button.button-freeCodeCamp:focus {
+    filter: brightness(90%)
+}
