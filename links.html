@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton-dark.css">
     <link rel="stylesheet" href="css/brands.css">
+    <script src="js/particles.js"></script>
+
 
     <style>
         .image {
@@ -34,7 +36,7 @@
 
 </head>
 
-<body>
+<body id="particles-js">
 
     <div class="container">
         <div class="row">
@@ -149,5 +151,10 @@
             </div>
         </div>
 </body>
-
+<script>
+    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+particlesJS.load('particles-js', 'js/particles.json', function() {
+console.log('callback - particles.js config loaded');
+});
+</script>
 </html>
