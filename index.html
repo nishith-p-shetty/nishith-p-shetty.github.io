@@ -13,6 +13,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <script src="js/particles.js"></script>
     <style>
         body,
         html {
@@ -79,7 +80,7 @@
 
 <body>
 
-    <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+    <div id="particles-js" class="bgimg w3-display-container w3-animate-opacity w3-text-white">
         <div class="w3-display-topleft w3-padding-large w3-xlarge">
             <a href="links.html ">N.P.S</a>
         </div>
@@ -101,5 +102,12 @@
     </div>
 
 </body>
+
+<script>
+            /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+    particlesJS.load('particles-js', 'js/particles.json', function() {
+    console.log('callback - particles.js config loaded');
+    });
+</script>
 
 </html>
