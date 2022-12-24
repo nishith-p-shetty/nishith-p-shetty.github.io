@@ -484,3 +484,16 @@ button:hover,
 .button.button-freeCodeCamp:focus {
     filter: brightness(90%)
 }
+
+
+/* Hugging Face */
+
+.button.button-huggingface {
+    color: #000000;
+    background-color: #fff83b
+}
+
+.button.button-huggingface:hover,
+.button.button-huggingface:focus {
+    filter: brightness(90%)
+}
