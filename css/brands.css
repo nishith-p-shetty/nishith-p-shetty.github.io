@@ -497,3 +497,16 @@ button:hover,
 .button.button-huggingface:focus {
     filter: brightness(90%)
 }
+
+
+/* Docker Hub */
+
+.button.button-dockerhub {
+    color: #ffffff;
+    background-color: #306bd0
+}
+
+.button.button-dockerhub:hover,
+.button.button-dockerhub:focus {
+    filter: brightness(90%)
+}
