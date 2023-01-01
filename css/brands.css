@@ -510,3 +510,16 @@ button:hover,
 .button.button-dockerhub:focus {
     filter: brightness(90%)
 }
+
+
+/* Replit */
+
+.button.button-replit {
+    color: #000000;
+    background-color: #df8f17
+}
+
+.button.button-replit:hover,
+.button.button-replit:focus {
+    filter: brightness(90%)
+}
