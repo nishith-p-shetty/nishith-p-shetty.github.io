@@ -1,5 +1,4 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nishithpshetty.tk/sitemap.xml
-Sitemap: https://www.nishithpshetty.tk/sitemap.xml
+user-agent: *
+allow: /
+sitemap: https://nishithpshetty.tk/sitemap.xml
+sitemap: https://www.nishithpshetty.tk/sitemap.xml
