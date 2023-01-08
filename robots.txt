@@ -1,4 +1,3 @@
 user-agent: *
 allow: /
 sitemap: https://nishithpshetty.tk/sitemap.xml
-sitemap: https://www.nishithpshetty.tk/sitemap.xml
