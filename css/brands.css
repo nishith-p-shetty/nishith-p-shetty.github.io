@@ -523,3 +523,16 @@ button:hover,
 .button.button-replit:focus {
     filter: brightness(90%)
 }
+
+
+/* Microsoft Learn */
+
+.button.button-microsoftlearn {
+    color: #000000;
+    background-color: #bae243
+}
+
+.button.button-microsoftlearn:hover,
+.button.button-microsoftlearn:focus {
+    filter: brightness(90%)
+}
