@@ -1,5 +1,5 @@
 const gallery = document.getElementById('gallery');
-for (let i = 1; i <= 5; i++) {
+for (let i = 1; i <= 7; i++) {
     var code = '<div class="col"><div class="card shadow-sm rounded-5">'+
     '<img class="rounded-top-5" src="https://ik.imagekit.io/nishithpshetty/photography/'+i+'.jpg" alt="img"><div class="card-body">'+
     '<div class="d-flex justify-content-center align-items-center"><div class="btn-group">'+
