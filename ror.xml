@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://nishithpshetty.tk/</title>
+  <link>http://nishithpshetty.tk/</link>
+
+<item>
+     <link>https://nishithpshetty.tk/</link>
+     <title>Nishith P Shetty</title>
+     <description>A personal/portfolio site of Nishith P Shetty</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nishithpshetty.tk/links.html</link>
+     <title>Nishith P Shetty</title>
+     <description>All links of different platform where Nishith P Shetty exists</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nishithpshetty.tk/portfolio/</link>
+     <title>Portfolio</title>
+     <description>Demo Porfolio site of Nishith P Shetty</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nishithpshetty.tk/projects.html</link>
+     <title>Live Projects</title>
+     <description>All Live projects Nishith P Shetty</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://nishithpshetty.tk/photography/</link>
+     <title>📷Photos</title>
+     <description>Photography of Nishith P Shetty</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
